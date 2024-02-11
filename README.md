@@ -21,3 +21,6 @@ The tricky path here is feature extraction from images; if done correctly and op
 We have deployed our applicaiton in Streamlit.io.
 
 Link: https://heart-diseases-prediction-using-ecg-images-htprsuyxmzmb5iktkds.streamlit.app/
+
+Download any image from the below folder path and try uploading it to the above url to get real-time insights.
+https://github.com/gufraan987/Heart-Diseases-Prediction-Using-ECG-Images/tree/main/ECG_IMAGES_DATASET
