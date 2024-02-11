@@ -19,4 +19,5 @@ The tricky path here is feature extraction from images; if done correctly and op
 
 #### DEPLOYMENT LINK:
 We have deployed our applicaiton in Streamlit.io.
-Link:https: //heart-diseases-prediction-using-ecg-images-htprsuyxmzmb5iktkds.streamlit.app/
+
+Link: https://heart-diseases-prediction-using-ecg-images-htprsuyxmzmb5iktkds.streamlit.app/
